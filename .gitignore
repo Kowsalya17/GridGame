@@ -1,0 +1,55 @@
+# Unity-generated folders and files
+[Ll]ibrary/
+[Tt]emp/
+Temp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+.assetstore/
+Packages/com.unity.package-manager*
+
+# Visual Studio / MonoDevelop generated files
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+.idea/
+*.sublime-workspace
+
+# Rider project files
+*.iml
+
+# OS-generated files and folders
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Lock files
+*.lock
+
+# Other cache files
+*.stackdump
+*.tmp
+*.bak
+*.swp
+*.lockfile
+*.log
+
+# Unity automatic lightmap snapshot
+.lightmapsnapshot
+
+# Exclude builds (optional if you don't want to store builds)
+Build/
+
+# Crash reports
+crash-reports/
